@@ -34,7 +34,7 @@ Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can
 
      
       
-### Steps to join The Design and Code Github Organization:
+### Steps to join The AlgoManiacZ Github Organization:
 
 > 1. Go to the issues tab [here](https://github.com/AlgoManiacZ/support/issues).
 >   
