@@ -42,7 +42,7 @@ Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can
 > 
 > 3. Select the "Invitation to AlgoManiacZ - Github Organization" and fill in your details.
 > 
-> 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, than only you will become a member of our Github Organization.
+> 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, then only you will become a member of our Github Organization.
 
 ### How do I set the Organization to Public?
 
