@@ -1,4 +1,7 @@
-![DC Banner](images/DC%20Github%20Banner.jpg)
+
+  
+><img width="1000" alt="DC Banner" src="images/DC Github Banner.png">
+>
 # **AlgoManiacZ**
 
 Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
