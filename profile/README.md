@@ -1,4 +1,4 @@
-![Banner](images/DC%20Github%20Banner.jpg)
+![Banner](./images/DC%20Github%20Banner.jpg)
 # **AlgoManiacZ**
 
 Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
@@ -50,15 +50,15 @@ Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/AlgoManiacZ/people) : <br>
 >   
-> <img width="221" alt="people" src="images/people2.png"> <br>
+> <img width="221" alt="people" src="./images/people2.png"> <br>
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
-> <img width="233" alt="searchbar" src="images/searchbar.PNG"> <br>
+> <img width="233" alt="searchbar" src="./images/searchbar.PNG"> <br>
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> <img width="639" alt="makepublic" src="images/makepublic.png"> <br>
+> <img width="639" alt="makepublic" src="./images/makepublic.png"> <br>
   
 
 ## Socials
