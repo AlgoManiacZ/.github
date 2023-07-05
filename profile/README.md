@@ -50,15 +50,16 @@ Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/AlgoManiacZ/people) : <br>
 >   
-> <img width="221" alt="people" src="./images/people2.png"> <br>
+> ![people2](https://github.com/AlgoManiacZ/.github/assets/92796050/37ca9747-e3da-4a2e-bc63-bc85d3f567c1) <br>
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
-> <img width="233" alt="searchbar" src="./images/searchbar.PNG"> <br>
+> <img width="233" alt="searchbar" src="https://github.com/AlgoManiacZ/.github/assets/92796050/4b74def6-e5ff-4f3a-9e7f-f1b4d7bc3133"> <br>
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> <img width="639" alt="makepublic" src="./images/makepublic.png"> <br>
+> ![makepublic](https://github.com/AlgoManiacZ/.github/assets/92796050/e7cfbef9-124e-4ff2-b74b-206912e0c362)
+ <br>
   
 
 ## Socials
