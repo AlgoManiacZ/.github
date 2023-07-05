@@ -1,4 +1,4 @@
-![Banner](./images/DC%20Github%20Banner.jpg)
+![DC Github Banner](https://github.com/AlgoManiacZ/.github/assets/92796050/d75f2df8-1ec2-467e-a5cc-0b7f6c638a4c)
 # **AlgoManiacZ**
 
 Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can connect and interact with fellow peers from all over the globe and not only learn but also collaborate on various projects!
