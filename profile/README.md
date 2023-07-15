@@ -10,7 +10,7 @@ Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can
   <a href="https://discord.gg/3G3Tqbbf2g" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="" style="text-decoration:none">
+<a href="https://website-algomaniacz.vercel.app/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/algomaniacz-community-160a00280/" style="text-decoration:none">
